@@ -1,4 +1,6 @@
-# GetKnottyDIY Carousel Ideas Log
+# Get Knotty DIY Carousel Ideas Log
+
+> **DRAFT, not crew-approved.** Written before the Get Knotty DIY crew's rules were read. Pillars, cadence and the KNOTTY keyword below are being reconciled with the Unfinished Business Launch Kit, Oakley's off-limits list and the Voice Style Guide. Keep the day job, employer, house and son out of anything public.
 
 Running list of carousel ideas. Newest at the top. Add a new entry per source.
 
@@ -19,7 +21,7 @@ Posted: Nov 3, 2026 | ~1.5K likes, ~655 comments
 
 ### Formats to steal (adapted for DIY)
 
-| Format | GetKnottyDIY carousel idea |
+| Format | Get Knotty DIY carousel idea |
 |---|---|
 | List | "7 tools I bought before I knew what they did" |
 | Before / after | The half-finished project vs. the "finished" one (finished is relative) |
@@ -29,7 +31,7 @@ Posted: Nov 3, 2026 | ~1.5K likes, ~655 comments
 | Mistakes | "Things I'd do differently" with the receipts |
 | Beginner guide | "Which tool for which job," explained with sarcasm |
 | Rating / ranking | Rank my unfinished projects by shame level |
-| Day in the life | Software trainer by day, power tools by night |
+| Day in the life | Day job by day, power tools by night (Dana decides how much to say about the day job) |
 | Resource drop | "Comment KNOTTY for my beginner tool list" (lead magnet / affiliate links) |
 
 ### Strategy notes
@@ -46,9 +48,9 @@ Posted: Nov 3, 2026 | ~1.5K likes, ~655 comments
 
 # 200 Carousel Ideas, Made Knotty (from the @edendotso framework)
 
-Source: the 10-category, 200-prompt carousel (slides 2-11 of the post above). Each prompt is rewritten for GetKnottyDIY.
+Source: the 10-category, 200-prompt carousel (slides 2-11 of the post above). Each prompt is rewritten for Get Knotty DIY.
 
-**Voice rules for every idea:** sarcastic, self-roasting, never fake-expert. You picked up your first power tool during COVID, you have a graveyard of half-finished projects, and you're a corporate single mom who trains software by day. Anything in [brackets] is a fact only you can fill in (the real project, number, or story). Don't invent details.
+**Voice rules for every idea:** sarcastic, self-roasting, never fake-expert. You picked up your first power tool during COVID, you have a graveyard of half-finished projects, and you're a single mom with a day job and a garage. Anything in [brackets] is a fact only you can fill in (the real project, number, or story). Don't invent details.
 
 Quick key: **S** = save bait (list/checklist), **A** = affiliate/lead-magnet fit, **C** = comment-trigger CTA fit.
 
@@ -77,7 +79,7 @@ Quick key: **S** = save bait (list/checklist), **A** = affiliate/lead-magnet fit
 ## 2. Step by step (21-40): "Teach it in steps"
 21. How I [task], step by step (one step per slide, with my honest commentary)
 22. Your first week of DIY, one day a slide
-23. How to start a DIY habit in 5 steps (even with a full-time job and a kid)
+23. How to start a DIY habit in 5 steps (even with a full-time job)
 24. The exact way I plan my project week around work and parenting
 25. How to set up your first tool from zero (unboxing to "why is it beeping")
 26. How to go from "I saw this on Pinterest" to a finished project
@@ -168,7 +170,7 @@ Quick key: **S** = save bait (list/checklist), **A** = affiliate/lead-magnet fit
 103. The [number] months that changed my hobby into a business
 104. A conversation that changed how I tackle projects
 105. What happened when I tried [thing] for 30 days
-106. The story behind the name "GetKnottyDIY" (Knotty!)
+106. The story behind the name "Get Knotty DIY" (Knotty!)
 107. How I went from "never touched a power tool" to posting about them
 108. The worst day of a project (cliffhanger on every slide)
 109. What a [person] taught me without knowing it
@@ -182,7 +184,7 @@ Quick key: **S** = save bait (list/checklist), **A** = affiliate/lead-magnet fit
 117. The moment [skill] finally clicked
 118. How I met the tool or person who got me into DIY
 119. I did [hard thing]. Here's what happened.
-120. What my kid or friend said that stuck
+120. What a friend said that stuck (no son, per Oakley's off-limits list unless Dana okays a specific piece)
 
 ## 7. Breakdowns (121-140): "Break down a winner"
 121. Why this DIY post worked so well
@@ -229,14 +231,14 @@ Quick key: **S** = save bait (list/checklist), **A** = affiliate/lead-magnet fit
 160. Why nobody talks about how hard it is
 
 ## 9. Personal (161-180): "Let them know you"
-161. A week in my life as a corporate single mom with a hobby that makes sawdust
+161. A week in my life as a single mom with a hobby that makes sawdust
 162. Things I love about my life and my chaos
 163. What's on my workbench, and why
 164. Lessons from [age] years of being me
 165. What I'm reading, watching and loving
 166. My local hardware store favorites
 167. Things that make me happy for under $[amount]
-168. What a normal day looks like (software trainer by day, power tools by night)
+168. What a normal day looks like (day job by day, power tools by night; keep the employer and job details off camera)
 169. My goals for the month and year
 170. The project I'm building, week by week
 171. The things I'm most proud of this year
@@ -297,7 +299,7 @@ One slot, one pillar per week, on a 4-week loop: Hall of Shame, Tool Truths, Sin
 |---|---|---|---|
 | 1 | Half-Finished Hall of Shame | #52 My plan for the project vs. what happened | Save + follow |
 | 2 | Tool Truths for Beginners | #11 5 signs you're ready for your first power tool | Save |
-| 3 | Single Mom in the Garage | #168 A normal day (software trainer by day, power tools by night) | Comment your day job |
+| 3 | Single Mom in the Garage | #168 A normal day (day job by day, power tools by night) | Soft CTA |
 | 4 | Use It / Save It | #181 A checklist for your first project | **Comment "KNOTTY"** for the checklist |
 
 Week 4 is the first lead-magnet post, so the checklist needs to exist before it goes live.
