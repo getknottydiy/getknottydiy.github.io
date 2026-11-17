@@ -282,28 +282,31 @@ Quick key: **S** = save bait (list/checklist), **A** = affiliate/lead-magnet fit
 3. **Single Mom in the Garage** (personal, opinions). Builds the follow.
 4. **Use It / Save It** (checklists, templates, lead magnets). Feeds the funnel and brand deals.
 
-## Cadence (sized to a full-time job plus single parenting)
-- **2 carousels a week** is the floor. A third is a bonus, not a requirement.
-- 1 reactive slot per week for trends or whatever you finish (or don't).
-- Batch-create once a week in one block. Keep a buffer of 2 finished carousels so a bad week doesn't break the streak.
-- Repurpose: each carousel can become a Reel script, a Pinterest pin, and a Threads post.
+## Cadence (confirmed): 1 Instagram carousel per week
+- **One carousel a week**, Instagram first. That's the floor and the plan.
+- Batch it in one block, and keep a buffer of 2 finished carousels so a bad week doesn't break the streak.
+- No separate reactive slot. If a trend or a finished project beats the plan, swap it in for that week's carousel.
+- Repurposing comes later (Reel script, Pinterest pin, Threads post). Not needed until the weekly habit holds.
+- Comment keyword for lead-magnet CTAs: **KNOTTY**.
 
-## Two named series
-- **Hall of Shame Wednesday**: a half-finished project gets a slide-by-slide autopsy.
-- **Save This Saturday**: a checklist, cheat sheet, or template people will save.
+## Weekly slot: rotate the four pillars
+One slot, one pillar per week, on a 4-week loop: Hall of Shame, Tool Truths, Single Mom in the Garage, Use It / Save It. Pick your posting day and keep it the same every week. A Saturday suggestion: people save things on weekends. That's a guess, not data.
 
-## Sample first 4 weeks (ideas pulled from the list by number)
-| Week | Wed: Hall of Shame | Sat: Save This | Reactive slot |
+## First 4 weeks (ideas pulled from the list by number)
+| Week | Pillar | Idea | CTA |
 |---|---|---|---|
-| 1 | #52 Plan vs. what happened | #181 First project checklist (comment-trigger CTA) | open |
-| 2 | #101 The day I almost gave up | #190 Drill bit and anchor cheat sheet | open |
-| 3 | #60 One project, redone 5 times | #188 First power tool starter kit (affiliate) | open |
-| 4 | #114 Why I picked up a power tool in COVID | #200 Save this for your next project | open |
+| 1 | Half-Finished Hall of Shame | #52 My plan for the project vs. what happened | Save + follow |
+| 2 | Tool Truths for Beginners | #11 5 signs you're ready for your first power tool | Save |
+| 3 | Single Mom in the Garage | #168 A normal day (software trainer by day, power tools by night) | Comment your day job |
+| 4 | Use It / Save It | #181 A checklist for your first project | **Comment "KNOTTY"** for the checklist |
 
-Fill in the [brackets] with real details before each post. Hooks, captions and slide copy come next in your voice.
+Week 4 is the first lead-magnet post, so the checklist needs to exist before it goes live.
 
 ## Open items
-- [ ] Confirm the 4 pillars and the 2-a-week cadence
-- [ ] Decide on a comment keyword for lead-magnet CTAs (e.g. "KNOTTY")
-- [ ] Pick which platform gets the carousels first (Instagram assumed)
-- [ ] Add original post's slide-by-slide notes (done: all 10 category slides are now captured above)
+- [x] Cadence: 1 carousel per week
+- [x] Comment keyword: KNOTTY
+- [x] Platform: Instagram
+- [ ] Pick your posting day
+- [ ] Fill in the [brackets] for week 1 (#52: which project?)
+- [ ] Build the week 4 first-project checklist
+- [ ] Hooks and slide copy for week 1
