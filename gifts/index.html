@@ -1,38 +1,35 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Holiday Gift Guides | Get Knotty DIY</title>
-<meta name="description" content="Get Knotty DIY holiday gift guides: home, tools & DIY, lifestyle & wellness.">
-<meta property="og:title" content="Holiday Gift Guides | Get Knotty DIY"><meta property="og:description" content="Get Knotty DIY holiday gift guides: home, tools & DIY, lifestyle & wellness.">
-<link rel="icon" href="/gifts/logo.png">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:wght@400;500&family=Shadows+Into+Light&display=swap">
-<style>
-:root{--bg:#F6F1E7;--card:#EDE5D4;--ink:#2E2D27;--muted:#5E5D4E;--olive:#585B3F;--sage:#8A8C6A;--line:#DDD3BF;
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Holiday Gift Guides | Get Knotty DIY</title><meta name="description" content="Get Knotty DIY gift guides: home, tools &amp; DIY, lifestyle &amp; wellness."><meta property="og:title" content="Holiday Gift Guides | Get Knotty DIY"><meta property="og:description" content="Get Knotty DIY gift guides: home, tools &amp; DIY, lifestyle &amp; wellness."><link rel="icon" href="/gifts/img/logo.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:wght@400;500&family=Shadows+Into+Light&display=swap"><style>
+:root{--bg:#F6F1E7;--card:#FFFFFF;--ink:#2E2D27;--muted:#5E5D4E;--olive:#585B3F;--sage:#8A8C6A;--oat:#CDBFA6;--line:#E4DBC8;
 --head:"DM Serif Display",Georgia,serif;--body:"Jost","Avenir",Arial,sans-serif;--hand:"Shadows Into Light","Comic Sans MS",cursive;color-scheme:light}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;padding:0 16px 48px}
-.wrap{max-width:620px;margin:0 auto;display:flex;flex-direction:column;gap:22px;padding-top:22px}
-header{display:flex;flex-direction:column;align-items:center;text-align:center;gap:10px}
-header img{width:84px;height:84px;border-radius:50%}
-.eyebrow{font-size:.78rem;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
-h1{font-family:var(--head);font-weight:400;font-size:clamp(2rem,8vw,2.7rem);line-height:1.08;margin:0;text-wrap:balance}
-.kicker{font-family:var(--hand);color:var(--olive);font-size:1.3rem;line-height:1.25;margin:0}
-.intro{margin:0;color:var(--ink)}
-.disc{font-size:.82rem;color:var(--muted);background:var(--card);border-radius:10px;padding:10px 12px;margin:0}
-ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px;counter-reset:g}
-li{counter-increment:g}
-a.item{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;padding:14px 14px;border:1px solid var(--line);border-radius:12px;background:#FBF8F1;color:var(--ink);text-decoration:none}
-a.item:active{background:var(--card)}
-a.item::before{content:counter(g,decimal-leading-zero);grid-row:1 / span 3;font-family:var(--head);color:var(--sage);font-size:1.5rem;line-height:1.1}
-.name{font-weight:500;font-size:1.05rem}
-.blurb{color:var(--muted);font-size:.93rem}
-.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:4px}
-.btn{background:var(--olive);color:var(--bg);border-radius:999px;padding:5px 12px;font-size:.85rem}
-.deal{border:1px solid var(--olive);color:var(--olive);border-radius:999px;padding:4px 10px;font-size:.8rem}
-.others{display:flex;flex-direction:column;gap:8px}
-.others a{display:block;text-align:center;padding:12px;border-radius:999px;border:1px solid var(--olive);color:var(--olive);text-decoration:none;font-weight:500}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+.hero{position:relative;height:min(78vh,640px);overflow:hidden}
+.hero .bg{width:100%;height:100%;object-fit:cover;display:block}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(46,45,39,0) 35%,rgba(46,45,39,.78) 100%)}
+.hero .t{position:absolute;left:0;right:0;bottom:0;z-index:1;padding:0 20px 26px;color:#F6F1E7;text-align:center}
+.eyebrow{font-size:.75rem;letter-spacing:.24em;text-transform:uppercase}
+h1{font-family:var(--head);font-weight:400;font-size:clamp(2.4rem,10vw,3.6rem);line-height:1.02;margin:6px 0 4px}
+.kicker{font-family:var(--hand);font-size:1.35rem;line-height:1.2;margin:0}
+.logo{position:absolute;top:14px;left:50%;transform:translateX(-50%);width:62px;height:62px;border-radius:50%;z-index:1;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+.wrap{max-width:760px;margin:0 auto;padding:22px 16px 48px;display:flex;flex-direction:column;gap:20px}
+.intro{margin:0;font-size:1.02rem}
+.disc{font-size:.8rem;color:var(--muted);border-left:3px solid var(--oat);padding:2px 0 2px 10px;margin:0}
+.grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;counter-reset:g}
+@media(min-width:640px){.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}}
+.grid li{counter-increment:g;min-width:0}
+a.card{position:relative;display:flex;flex-direction:column;height:100%;background:var(--card);border-radius:14px;overflow:hidden;color:var(--ink);text-decoration:none;box-shadow:0 1px 0 var(--line)}
+a.card::before{content:counter(g);position:absolute;top:8px;left:8px;z-index:1;width:28px;height:28px;border-radius:50%;background:var(--olive);color:#F6F1E7;font-family:var(--head);font-size:1rem;display:grid;place-items:center}
+.ph{aspect-ratio:1;background:#fff;display:grid;place-items:center;padding:10px}
+.ph img{max-width:100%;max-height:100%;object-fit:contain;display:block}
+.tx{padding:10px 12px 12px;display:flex;flex-direction:column;gap:4px;flex:1;border-top:1px solid var(--line);background:#FBF8F1}
+.name{font-weight:500;font-size:.98rem;line-height:1.25}
+.blurb{color:var(--muted);font-size:.84rem;line-height:1.4;flex:1}
+.deal{align-self:flex-start;background:var(--oat);color:var(--ink);border-radius:999px;padding:2px 9px;font-size:.74rem;font-weight:500}
+.shop{margin-top:6px;align-self:flex-start;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--olive);font-weight:500;border-bottom:1px solid var(--olive)}
+.others{display:flex;flex-direction:column;gap:10px;margin-top:6px}
+.others a{display:block;text-align:center;padding:13px;border-radius:999px;border:1px solid var(--olive);color:var(--olive);text-decoration:none;font-weight:500}
 .others a.main{background:var(--olive);color:var(--bg)}
-footer{text-align:center;font-size:.85rem;color:var(--muted)}
+footer{text-align:center;font-size:.85rem;color:var(--muted);padding-bottom:30px}
 footer a{color:var(--olive)}
 a:focus-visible{outline:2px solid var(--olive);outline-offset:3px}
-</style></head><body><div class="wrap"><header><img src="/gifts/logo.png" alt="Get Knotty DIY logo"><span class="eyebrow">Black Friday & holiday 2026</span><h1>Get Knotty Gift Guides</h1><p class="kicker">pick your person, tap, done</p></header><nav class="others"><a class="main" href="/gifts/home/">Home</a><a class="main" href="/gifts/diy/">Tools &amp; DIY</a><a class="main" href="/gifts/wellness/">Lifestyle &amp; Wellness</a><a href="https://www.amazon.com/shop/getknottydiy" target="_blank" rel="noopener">My Amazon storefront</a></nav><p class="disc">Heads up: some of these are affiliate links, which means I may earn a small commission if you buy through them, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Some products were gifted to me by brands I&#x27;ve worked with. Prices and sales change fast, so double-check before you check out.</p><footer>Made with love, sawdust and too much coffee by <a href="https://getknottydiy.com">Get Knotty DIY</a> · <a href="https://www.instagram.com/getknottydiy/">@getknottydiy</a></footer></div></body></html>
+.tiles{display:grid;gap:12px}.tile{position:relative;display:block;height:200px;border-radius:16px;overflow:hidden;color:#F6F1E7;text-decoration:none}.tile img{width:100%;height:100%;object-fit:cover}.tile span{position:absolute;inset:auto 0 0 0;padding:14px 16px;font-family:var(--head);font-size:1.8rem;background:linear-gradient(180deg,transparent,rgba(46,45,39,.75))}</style></head><body><div class="wrap" style="text-align:center"><img src="/gifts/img/logo.png" alt="Get Knotty DIY logo" style="width:84px;margin:0 auto;border-radius:50%"><div class="eyebrow" style="color:var(--muted)">Black Friday & holiday 2026</div><h1>Gift Guides</h1><p class="kicker" style="color:var(--olive)">pick your person, tap, done</p><div class="tiles"><a class="tile" href="/gifts/home/"><img src="/gifts/img/hero-home.jpg" alt=""><span>Home</span></a><a class="tile" href="/gifts/diy/"><img src="/gifts/img/hero-diy.jpg" alt=""><span>Tools &amp; DIY</span></a><a class="tile" href="/gifts/wellness/"><img src="/gifts/img/hero-wellness.jpg" alt=""><span>Lifestyle &amp; Wellness</span></a></div><div class="others"><a class="main" href="https://www.amazon.com/shop/getknottydiy" target="_blank" rel="noopener">My Amazon storefront</a></div><p class="disc" style="text-align:left">Heads up: some of these are affiliate links, which means I may earn a small commission if you buy through them, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Some products were gifted to me by brands I&#x27;ve worked with. Prices and sales change fast, so double-check before you check out.</p></div><footer>Get Knotty DIY · <a href="https://getknottydiy.com">getknottydiy.com</a> · <a href="https://www.instagram.com/getknottydiy/">@getknottydiy</a></footer></body></html>
